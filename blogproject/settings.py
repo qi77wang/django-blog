@@ -25,7 +25,7 @@ SECRET_KEY = 'r4osr6xoq4#1#x6$g4ffag!upmt$fp($wxavdwwy_ds1zs$p=4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['192.168.28.26', 'localhost', '.mao-meng.com']
+ALLOWED_HOSTS = ['192.168.28.26', 'localhost', '.mao-meng.top']
 
 
 # Application definition
